@@ -9,6 +9,7 @@
       init.defaultBranch = "main";
       sequence.editor = "nvim";
       merge.guitool = "nvimdiff2";
+      safe.directory = "*";
       user = {
         name = "Frytak";
 	email = "frytak2855@gmail.com";
